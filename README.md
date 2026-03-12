@@ -1,43 +1,40 @@
 # 🎙️ LectureVault
 
-**Empowering UVic Students through Accessible Academic Support**
+**Structured Lecture Recording for Every Student**
 
-LectureVault is a dedicated mobile application designed specifically for University of Victoria (UVic) students registered with the **[Center for Accessibility (CAL)](https://www.uvic.ca/accessible-learning/index.php)**. 
+LectureVault is a dedicated tool for capturing, organizing, and syncing course content. 
 
-Students with accessibility accommodations often face unique challenges in the classroom—from needing to record lectures to ensuring they have priority seating or clear descriptions of visual content. LectureVault aims to be the digital companion that bridges these gaps, providing a streamlined way to manage academic accommodations.
+Created by a University of Victoria student registered with the **[Center for Accessibility (CAL)](https://www.uvic.ca/accessible-learning/index.php)**, this app was born from a personal need for a better way to manage lecture audio and visual materials simultaneously. While designed to bridge specific gaps in classroom accessibility, LectureVault provides a powerful, organized workflow that benefits any student looking to master their course material.
 
 ---
 
 ## ✨ Key Features
 
-- **🎙️ Seamless Audio Recording**: Effortlessly record your lectures in high quality. Perfect for students whose accommodations include audio recording for personal study.
-- **📁 Smart Organization**: No more digging through folders. LectureVault stores your recordings neatly, categorized by course, date, and topic.
-- **🖼️ Slide Synchronization**: Import your lecture slide decks (PDFs/PowerPoint) and keep them in perfect sync with your audio timestamps. See exactly what was being shown when a specific point was discussed.
-- **♿ Built for Accessibility**: Designed with the CAL student in mind. Supporting accommodations like:
-  - Audio recording permissions.
-  - Tracking visual descriptions (reminders for lecturers to announce board content).
-  - Priority seating management.
+- **🎙️ Seamless Audio Recording**: Capture high-quality lecture audio for easy review and hands-free note-taking.
+- **📁 Smart Organization**: Keep your semester tidy. Recordings are automatically categorized by course and date.
+- **🖼️ Slide Synchronization**: Match your audio with visual materials. Import lecture slide decks and sync them with your recording timestamps to see exactly what was on the board during every moment of the lecture.
+- **� Contextual Notes**: Keep track of key reminders, such as instructor board announcements and priority topics, right alongside your recording.
 
 ---
 
 ## 🚀 Future Roadmap
 
-We are constantly looking to improve the student experience. Our future plans include:
+We are continuously evolving the study experience:
 
-- **🤖 AI-Powered Transcription**: Automatically convert your lecture audio into searchable text.
-- **📝 Intelligent Summaries**: Generate key takeaways and study guides using advanced AI models.
-- **💡 Smart Search**: Search through your entire semester of lectures for specific keywords or concepts.
+- **🤖 AI-Powered Transcription**: Convert lecture audio into searchable text automatically.
+- **📝 Intelligent Summaries**: AI-generated key takeaways and review guides.
+- **🔍 Deep Search**: Find specific words or concepts across your entire recording history.
 
 ---
 
 ## 🛠️ Getting Started
 
-This is a Flutter application. To get started:
+LectureVault is built with Flutter. To set up:
 
-1. **Prerequisites**: Ensure you have [Flutter](https://docs.flutter.dev/get-started/install) installed on your machine.
+1. **Prerequisites**: [Install Flutter](https://docs.flutter.dev/get-started/install).
 2. **Installation**:
    ```bash
-   git clone https://github.com/yourusername/lecturevault.git
+   git clone https://github.com/JoelV1234/lecturevault.git
    cd lecturevault
    flutter pub get
    ```
@@ -48,10 +45,8 @@ This is a Flutter application. To get started:
 
 ---
 
-## 🏛️ About CAL at UVic
+## 💡 The Story Behind LectureVault
 
-The **Center for Accessibility (CAL)** at UVic works with students and faculty to reduce barriers to learning. To learn more about registering for accommodations, visit the [official CAL website](https://www.uvic.ca/accessible-learning/index.php).
+LectureVault started because I needed it. As a student with a disability, I found that existing tools didn't quite capture the specific relationship between lecture audio and the visual content on the board. I wanted a solution that didn't just record sound, but helped maintain the context of the entire lecture.
 
----
-
-*LectureVault is an independent project aimed at supporting student accessibility.*
+*LectureVault is an independent project dedicated to making learning more organized, contextual, and accessible for everyone.*
