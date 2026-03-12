@@ -13,7 +13,7 @@ Born from a personal need as a University of Victoria student registered with th
 - **🎙️ Context-Aware Audio Recording**: High-quality audio capture that serves as the foundation of your lecture records.
 - **🖼️ Digital Material Synchronization**: Import lecture slide decks and visual materials to sync them directly with your audio. Navigate your recordings through visual milestones to see exactly what was being presented at any moment.
 - **📁 Integrated Classroom Archive**: Store your audio and visual materials together, organized by course and date for a complete, searchable record of your semester.
-- **📝 Multi-Modal Content Capture**: Designed to capture as much lecture content as possible, ensuring visual descriptions and board notes are preserved alongside the audio stream.
+- **📝 Multi-Modal Content Capture**: Designed to capture as much lecture content as possible, ensuring visual descriptions and slide notes are preserved alongside the audio stream.
 
 ---
 
