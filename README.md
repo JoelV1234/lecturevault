@@ -1,29 +1,29 @@
 # 🎙️ LectureVault
 
-**Structured Lecture Recording for Every Student**
+**Seamless Audio-Visual Synchronization for Total Lecture Capture**
 
-LectureVault is a dedicated tool for capturing, organizing, and syncing course content. 
+LectureVault is an audio recording application designed to bridge the gap between spoken lectures and the digital visual materials that accompany them. 
 
-Created by a University of Victoria student registered with the **[Center for Accessibility (CAL)](https://www.uvic.ca/accessible-learning/index.php)**, this app was born from a personal need for a better way to manage lecture audio and visual materials simultaneously. While designed to bridge specific gaps in classroom accessibility, LectureVault provides a powerful, organized workflow that benefits any student looking to master their course material.
+Born from a personal need as a University of Victoria student registered with the **[Center for Accessibility (CAL)](https://www.uvic.ca/accessible-learning/index.php)**, this app solves a critical challenge: capturing the full context of a lecture by perfectly syncing audio recordings with digital presentation materials. By anchoring audio to specific moments in a slide deck or presentation, LectureVault ensures that the relationship between what is said and what is shown is never lost.
 
 ---
 
 ## ✨ Key Features
 
-- **🎙️ Seamless Audio Recording**: Capture high-quality lecture audio for easy review and hands-free note-taking.
-- **📁 Smart Organization**: Keep your semester tidy. Recordings are automatically categorized by course and date.
-- **🖼️ Slide Synchronization**: Match your audio with visual materials. Import lecture slide decks and sync them with your recording timestamps to see exactly what was on the board during every moment of the lecture.
-- **� Contextual Notes**: Keep track of key reminders, such as instructor board announcements and priority topics, right alongside your recording.
+- **🎙️ Context-Aware Audio Recording**: High-quality audio capture that serves as the foundation of your lecture records.
+- **🖼️ Digital Material Synchronization**: Import lecture slide decks and visual materials to sync them directly with your audio. Navigate your recordings through visual milestones to see exactly what was being presented at any moment.
+- **📁 Integrated Classroom Archive**: Store your audio and visual materials together, organized by course and date for a complete, searchable record of your semester.
+- **📝 Multi-Modal Content Capture**: Designed to capture as much lecture content as possible, ensuring visual descriptions and board notes are preserved alongside the audio stream.
 
 ---
 
 ## 🚀 Future Roadmap
 
-We are continuously evolving the study experience:
+We are continuously enhancing the capture experience:
 
-- **🤖 AI-Powered Transcription**: Convert lecture audio into searchable text automatically.
-- **📝 Intelligent Summaries**: AI-generated key takeaways and review guides.
-- **🔍 Deep Search**: Find specific words or concepts across your entire recording history.
+- **🤖 AI-Powered Transcription**: Automatically convert synchronized audio into text records.
+- **🧠 Visual Material Extraction**: AI-driven identification of key slide transitions and visual topics.
+- **🔍 Content-Wide Search**: Search for mentions of specific keywords across both your audio transcripts and visual materials.
 
 ---
 
@@ -45,8 +45,8 @@ LectureVault is built with Flutter. To set up:
 
 ---
 
-## 💡 The Story Behind LectureVault
+## 💡 The Philosophy Behind LectureVault
 
-LectureVault started because I needed it. As a student with a disability, I found that existing tools didn't quite capture the specific relationship between lecture audio and the visual content on the board. I wanted a solution that didn't just record sound, but helped maintain the context of the entire lecture.
+As a student with a disability, I realized that audio recording alone isn't enough to fully "capture" a lecture. To truly understand a complex presentation, you need the visual context that the instructor is referencing in real-time. I built LectureVault to ensure that the digital presentation and the spoken word are unified into a single, cohesive record.
 
-*LectureVault is an independent project dedicated to making learning more organized, contextual, and accessible for everyone.*
+*LectureVault is an independent project dedicated to maximizing lecture comprehension through structured, synchronized content capture.*
